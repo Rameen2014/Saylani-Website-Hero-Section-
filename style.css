@@ -1,0 +1,25 @@
+css
+h1 {
+    color: #27b618;
+}
+
+p {
+    color: #a8a8a8;
+}
+
+.btn-green {
+    background: #00b956;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: none;
+}
+
+.btn-white {
+    background: white;
+    color: #00b956;
+    border: 2px solid #00b956;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+
